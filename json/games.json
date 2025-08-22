@@ -1,0 +1,3054 @@
+{
+  "nodes": {
+    "Half-Life 2: Episode One": {
+      "type": "Game",
+      "releaseDate": "2007-10-10T00:00:00Z"
+    },
+    "Valve Corporation": {
+      "type": "Developer"
+    },
+    "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633": {
+      "type": "Platform"
+    },
+    "PlayStation 3": {
+      "type": "Platform"
+    },
+    "Windows": {
+      "type": "Platform"
+    },
+    "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360": {
+      "type": "Platform"
+    },
+    "\u120a\u1291\u12ad\u1235": {
+      "type": "Platform"
+    },
+    "science fiction video game": {
+      "type": "Genre"
+    },
+    "first-person shooter": {
+      "type": "Genre"
+    },
+    "post-apocalyptic video game": {
+      "type": "Genre"
+    },
+    "Rappelz": {
+      "type": "Game",
+      "releaseDate": "2009-05-19T00:00:00Z"
+    },
+    "fantasy video game": {
+      "type": "Genre"
+    },
+    "Amnesia: The Dark Descent": {
+      "type": "Game",
+      "releaseDate": "2010-09-08T00:00:00Z"
+    },
+    "Frictional Games": {
+      "type": "Developer"
+    },
+    "psychological horror": {
+      "type": "Genre"
+    },
+    "MotorStorm: Arctic Edge": {
+      "type": "Game",
+      "releaseDate": "2009-11-01T00:00:00Z"
+    },
+    "Bigbig Studios": {
+      "type": "Developer"
+    },
+    "PlayStation Portable": {
+      "type": "Platform"
+    },
+    "PlayStation 2": {
+      "type": "Platform"
+    },
+    "racing video game": {
+      "type": "Genre"
+    },
+    "FinnWars": {
+      "type": "Game",
+      "releaseDate": "2004-02-07T00:00:00Z"
+    },
+    "DICE": {
+      "type": "Developer"
+    },
+    "Civilization III": {
+      "type": "Game",
+      "releaseDate": "2006-10-25T00:00:00Z"
+    },
+    "Aspyr": {
+      "type": "Developer"
+    },
+    "Firaxis Games": {
+      "type": "Developer"
+    },
+    "MacSoft Games": {
+      "type": "Developer"
+    },
+    "Classic Mac OS": {
+      "type": "Platform"
+    },
+    "strategy video game": {
+      "type": "Genre"
+    },
+    "turn-based strategy video game": {
+      "type": "Genre"
+    },
+    "4X": {
+      "type": "Genre"
+    },
+    "simulation video game": {
+      "type": "Genre"
+    },
+    "grand strategy wargame": {
+      "type": "Genre"
+    },
+    "Civilization IV": {
+      "type": "Game",
+      "releaseDate": "2005-10-25T00:00:00Z"
+    },
+    "Soren Johnson": {
+      "type": "Developer"
+    },
+    "Civilization V": {
+      "type": "Game",
+      "releaseDate": "2010-09-21T00:00:00Z"
+    },
+    "Freedom Force vs the 3rd Reich": {
+      "type": "Game",
+      "releaseDate": "2005-03-08T00:00:00Z"
+    },
+    "Irrational Games": {
+      "type": "Developer"
+    },
+    "tactical role-playing game": {
+      "type": "Genre"
+    },
+    "real-time tactics": {
+      "type": "Genre"
+    },
+    "Heroes of Might and Magic V: Tribes of the East": {
+      "type": "Game",
+      "releaseDate": "2007-10-12T00:00:00Z"
+    },
+    "Nival Interactive": {
+      "type": "Developer"
+    },
+    "Need for Speed: Shift": {
+      "type": "Game",
+      "releaseDate": "2009-10-06T00:00:00Z"
+    },
+    "Slightly Mad Studios": {
+      "type": "Developer"
+    },
+    "Symbian": {
+      "type": "Platform"
+    },
+    "\u0622\u064a \u0623\u0648 \u0625\u0633": {
+      "type": "Platform"
+    },
+    "Windows Mobile": {
+      "type": "Platform"
+    },
+    "\u0623\u0646\u062f\u0631\u0648\u064a\u062f": {
+      "type": "Platform"
+    },
+    "VVVVVV": {
+      "type": "Game",
+      "releaseDate": "2010-09-08T00:00:00Z"
+    },
+    "Terry Cavanagh": {
+      "type": "Developer"
+    },
+    "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58": {
+      "type": "Platform"
+    },
+    "Ouya": {
+      "type": "Platform"
+    },
+    "PlayStation Vita": {
+      "type": "Platform"
+    },
+    "Nintendo 3DS": {
+      "type": "Platform"
+    },
+    "Pandora": {
+      "type": "Platform"
+    },
+    "Commodore 64": {
+      "type": "Platform"
+    },
+    "PlayStation 4": {
+      "type": "Platform"
+    },
+    "puzzle-platformer": {
+      "type": "Genre"
+    },
+    "Assassin's Creed II": {
+      "type": "Game",
+      "releaseDate": "2010-10-01T00:00:00Z"
+    },
+    "Ubisoft Montreal": {
+      "type": "Developer"
+    },
+    "Xbox One": {
+      "type": "Platform"
+    },
+    "third-person shooter": {
+      "type": "Genre"
+    },
+    "historical video game": {
+      "type": "Genre"
+    },
+    "action-adventure game": {
+      "type": "Genre"
+    },
+    "stealth game": {
+      "type": "Genre"
+    },
+    "DK: King of Swing": {
+      "type": "Game",
+      "releaseDate": "2005-02-04T00:00:00Z"
+    },
+    "Paon DP": {
+      "type": "Developer"
+    },
+    "Wii U": {
+      "type": "Platform"
+    },
+    "Game Boy Advance": {
+      "type": "Platform"
+    },
+    "puzzle video game": {
+      "type": "Genre"
+    },
+    "The Legend of Zelda: Ocarina of Time": {
+      "type": "Game",
+      "releaseDate": "2007-02-27T00:00:00Z"
+    },
+    "Nintendo Entertainment Analysis & Development": {
+      "type": "Developer"
+    },
+    "\u4efb\u5929\u5802": {
+      "type": "Developer"
+    },
+    "Nintendo GameCube": {
+      "type": "Platform"
+    },
+    "Nintendo 64": {
+      "type": "Platform"
+    },
+    "Wii": {
+      "type": "Platform"
+    },
+    "Super Mario Bros.": {
+      "type": "Game",
+      "releaseDate": "2007-01-05T00:00:00Z"
+    },
+    "Nintendo Entertainment System": {
+      "type": "Platform"
+    },
+    "2D platform game": {
+      "type": "Genre"
+    },
+    "Death to Spies": {
+      "type": "Game",
+      "releaseDate": "2007-10-16T00:00:00Z"
+    },
+    "shooter game": {
+      "type": "Genre"
+    },
+    "Stronghold: Crusader Extreme": {
+      "type": "Game",
+      "releaseDate": "2008-05-27T00:00:00Z"
+    },
+    "Firefly Studios": {
+      "type": "Developer"
+    },
+    "real-time strategy": {
+      "type": "Genre"
+    },
+    "Uncharted 2: Among Thieves": {
+      "type": "Game",
+      "releaseDate": "2009-10-16T00:00:00Z"
+    },
+    "Naughty Dog": {
+      "type": "Developer"
+    },
+    "platform game": {
+      "type": "Genre"
+    },
+    "Uncharted: Drake's Fortune": {
+      "type": "Game",
+      "releaseDate": "2007-12-07T00:00:00Z"
+    },
+    "Spectromancer": {
+      "type": "Game",
+      "releaseDate": "2008-10-01T00:00:00Z"
+    },
+    "Apus Software": {
+      "type": "Developer"
+    },
+    "card video game": {
+      "type": "Genre"
+    },
+    "24: The Game": {
+      "type": "Game",
+      "releaseDate": "2006-04-22T00:00:00Z"
+    },
+    "Guerrilla Cambridge": {
+      "type": "Developer"
+    },
+    "Quake": {
+      "type": "Game",
+      "releaseDate": "2007-05-31T00:00:00Z"
+    },
+    "Nightdive Studios": {
+      "type": "Developer"
+    },
+    "id Software": {
+      "type": "Developer"
+    },
+    "PlayStation 5": {
+      "type": "Platform"
+    },
+    "Dreamcast": {
+      "type": "Platform"
+    },
+    "Commodore Amiga": {
+      "type": "Platform"
+    },
+    "Sega Saturn": {
+      "type": "Platform"
+    },
+    "\u098f\u09ae\u098f\u09b8-\u09a1\u09b8": {
+      "type": "Platform"
+    },
+    "Xbox Series X and Series S": {
+      "type": "Platform"
+    },
+    "Project Snowblind": {
+      "type": "Game",
+      "releaseDate": "2005-02-23T00:00:00Z"
+    },
+    "Crystal Dynamics": {
+      "type": "Developer"
+    },
+    "Xbox": {
+      "type": "Platform"
+    },
+    "cyberpunk video game": {
+      "type": "Genre"
+    },
+    "Need for Speed: Carbon": {
+      "type": "Game",
+      "releaseDate": "2006-10-30T00:00:00Z"
+    },
+    "EA Vancouver": {
+      "type": "Developer"
+    },
+    "Nintendo DS": {
+      "type": "Platform"
+    },
+    "Zoo Tycoon 2": {
+      "type": "Game",
+      "releaseDate": "2004-11-09T00:00:00Z"
+    },
+    "Blue Fang Games": {
+      "type": "Developer"
+    },
+    "business simulation game": {
+      "type": "Genre"
+    },
+    "Boin": {
+      "type": "Game",
+      "releaseDate": "2004-09-24T00:00:00Z"
+    },
+    "visual novel": {
+      "type": "Genre"
+    },
+    "hentai": {
+      "type": "Genre"
+    },
+    "eroge": {
+      "type": "Genre"
+    },
+    "harem": {
+      "type": "Genre"
+    },
+    "Need for Speed: Most Wanted": {
+      "type": "Game",
+      "releaseDate": "2005-11-11T00:00:00Z"
+    },
+    "EA Black Box": {
+      "type": "Developer"
+    },
+    "personal computer": {
+      "type": "Platform"
+    },
+    "Fallout 3": {
+      "type": "Game",
+      "releaseDate": "2008-10-28T00:00:00Z"
+    },
+    "Bethesda Game Studios": {
+      "type": "Developer"
+    },
+    "action role-playing game": {
+      "type": "Genre"
+    },
+    "video game with LGBT character": {
+      "type": "Genre"
+    },
+    "role-playing video game": {
+      "type": "Genre"
+    },
+    "Hearts of Iron III": {
+      "type": "Game",
+      "releaseDate": "2009-06-29T00:00:00Z"
+    },
+    "Paradox Development Studio": {
+      "type": "Developer"
+    },
+    "wargame": {
+      "type": "Genre"
+    },
+    "League of Legends": {
+      "type": "Game",
+      "releaseDate": "2009-10-27T00:00:00Z"
+    },
+    "Riot Games": {
+      "type": "Developer"
+    },
+    "TGP Box": {
+      "type": "Platform"
+    },
+    "multiplayer online battle arena": {
+      "type": "Genre"
+    },
+    "Half-Life 2: Lost Coast": {
+      "type": "Game",
+      "releaseDate": "2005-10-27T00:00:00Z"
+    },
+    "Professor Layton and the Unwound Future": {
+      "type": "Game",
+      "releaseDate": "2010-10-22T00:00:00Z"
+    },
+    "Level-5": {
+      "type": "Developer"
+    },
+    "mystery video game": {
+      "type": "Genre"
+    },
+    "adventure video game": {
+      "type": "Genre"
+    },
+    "Fate": {
+      "type": "Game",
+      "releaseDate": "2005-05-18T00:00:00Z"
+    },
+    "WildTangent": {
+      "type": "Developer"
+    },
+    "Fate: Undiscovered Realms": {
+      "type": "Game",
+      "releaseDate": "2008-07-17T00:00:00Z"
+    },
+    "roguelike": {
+      "type": "Genre"
+    },
+    "Zak McKracken: Between Time and Space": {
+      "type": "Game",
+      "releaseDate": "2008-04-20T00:00:00Z"
+    },
+    "Excitebike": {
+      "type": "Game",
+      "releaseDate": "2007-03-13T00:00:00Z"
+    },
+    "Nintendo Research & Development 1": {
+      "type": "Developer"
+    },
+    "Sharp X1": {
+      "type": "Platform"
+    },
+    "arcade video game machine": {
+      "type": "Platform"
+    },
+    "NEC PC-8800 series": {
+      "type": "Platform"
+    },
+    "Tron": {
+      "type": "Game",
+      "releaseDate": "2008-01-09T00:00:00Z"
+    },
+    "Midway Games": {
+      "type": "Developer"
+    },
+    "Tron-like": {
+      "type": "Genre"
+    },
+    "action game": {
+      "type": "Genre"
+    },
+    "Paper Mario": {
+      "type": "Game",
+      "releaseDate": "2007-07-16T00:00:00Z"
+    },
+    "Intelligent Systems": {
+      "type": "Developer"
+    },
+    "iQue Player": {
+      "type": "Platform"
+    },
+    "Grand Theft Auto: Vice City Stories": {
+      "type": "Game",
+      "releaseDate": "2006-10-31T00:00:00Z"
+    },
+    "Rockstar Leeds": {
+      "type": "Developer"
+    },
+    "Grand Theft Auto: Liberty City Stories": {
+      "type": "Game",
+      "releaseDate": "2005-10-25T00:00:00Z"
+    },
+    "Grand Theft Auto IV": {
+      "type": "Game",
+      "releaseDate": "2009-01-04T00:00:00Z"
+    },
+    "Rockstar North": {
+      "type": "Developer"
+    },
+    "Rockstar Toronto": {
+      "type": "Developer"
+    },
+    "Grand Theft Auto: Chinatown Wars": {
+      "type": "Game",
+      "releaseDate": "2009-03-17T00:00:00Z"
+    },
+    "Clannad": {
+      "type": "Game",
+      "releaseDate": "2004-04-28T00:00:00Z"
+    },
+    "Visual Arts": {
+      "type": "Developer"
+    },
+    "Key": {
+      "type": "Developer"
+    },
+    "romance adventure game": {
+      "type": "Genre"
+    },
+    "Chromehounds": {
+      "type": "Game",
+      "releaseDate": "2006-06-29T00:00:00Z"
+    },
+    "FromSoftware": {
+      "type": "Developer"
+    },
+    "Cloud": {
+      "type": "Game",
+      "releaseDate": "2005-10-24T00:00:00Z"
+    },
+    "Jenova Chen": {
+      "type": "Developer"
+    },
+    "Fire Emblem: Shadow Dragon and the Blade of Light": {
+      "type": "Game",
+      "releaseDate": "2009-10-20T00:00:00Z"
+    },
+    "Fire Emblem: The Sacred Stones": {
+      "type": "Game",
+      "releaseDate": "2005-11-04T00:00:00Z"
+    },
+    "Fire Emblem: The Blazing Blade": {
+      "type": "Game",
+      "releaseDate": "2004-07-16T00:00:00Z"
+    },
+    "Sonic Colors": {
+      "type": "Game",
+      "releaseDate": "2010-11-11T00:00:00Z"
+    },
+    "Sonic Team": {
+      "type": "Developer"
+    },
+    "The Incredible Hulk: Ultimate Destruction": {
+      "type": "Game",
+      "releaseDate": "2005-08-23T00:00:00Z"
+    },
+    "Radical Entertainment": {
+      "type": "Developer"
+    },
+    "The Incredible Hulk": {
+      "type": "Game",
+      "releaseDate": "2008-06-05T00:00:00Z"
+    },
+    "Edge of Reality": {
+      "type": "Developer"
+    },
+    ".kkrieger": {
+      "type": "Game",
+      "releaseDate": "2004-01-01T00:00:00Z"
+    },
+    ".theprodukkt": {
+      "type": "Developer"
+    },
+    "Farbrausch": {
+      "type": "Developer"
+    },
+    "James Bond 007: Everything or Nothing": {
+      "type": "Game",
+      "releaseDate": "2004-02-17T00:00:00Z"
+    },
+    "Visceral Games": {
+      "type": "Developer"
+    },
+    "FreeCol": {
+      "type": "Game",
+      "releaseDate": "2009-05-12T00:00:00Z"
+    },
+    "Java virtual machine": {
+      "type": "Platform"
+    },
+    "Sonic & Sega All-Stars Racing": {
+      "type": "Game",
+      "releaseDate": "2010-03-03T00:00:00Z"
+    },
+    "Sumo Digital": {
+      "type": "Developer"
+    },
+    "mascot racer": {
+      "type": "Genre"
+    },
+    "crossover fiction": {
+      "type": "Genre"
+    },
+    "Metro 2033": {
+      "type": "Game",
+      "releaseDate": "2010-03-16T00:00:00Z"
+    },
+    "4A Games": {
+      "type": "Developer"
+    },
+    "survival horror": {
+      "type": "Genre"
+    },
+    "Metal Drift": {
+      "type": "Game",
+      "releaseDate": "2009-10-22T00:00:00Z"
+    },
+    "vehicular combat game": {
+      "type": "Genre"
+    },
+    "Memories Off: Yubikiri no Kioku": {
+      "type": "Game",
+      "releaseDate": "2010-07-29T00:00:00Z"
+    },
+    "5pb. Inc.": {
+      "type": "Developer"
+    },
+    "bish\u014djo game": {
+      "type": "Genre"
+    },
+    "Memories Off 6: T-wave": {
+      "type": "Game",
+      "releaseDate": "2008-08-21T00:00:00Z"
+    },
+    "Guitar Hero": {
+      "type": "Game",
+      "releaseDate": "2005-11-08T00:00:00Z"
+    },
+    "Harmonix Music Systems": {
+      "type": "Developer"
+    },
+    "rhythm game": {
+      "type": "Genre"
+    },
+    "music video game": {
+      "type": "Genre"
+    },
+    "Kal Online": {
+      "type": "Game",
+      "releaseDate": "2004-01-01T00:00:00Z"
+    },
+    "massively multiplayer online role-playing game": {
+      "type": "Genre"
+    },
+    "Trine": {
+      "type": "Game",
+      "releaseDate": "2009-07-03T00:00:00Z"
+    },
+    "Frozenbyte": {
+      "type": "Developer"
+    },
+    "Transformice": {
+      "type": "Game",
+      "releaseDate": "2010-05-01T00:00:00Z"
+    },
+    "Atelier 801": {
+      "type": "Developer"
+    },
+    "The Ball": {
+      "type": "Game",
+      "releaseDate": "2010-10-26T00:00:00Z"
+    },
+    "Teotl Studios": {
+      "type": "Developer"
+    },
+    "Digimon Story Lost Evolution": {
+      "type": "Game",
+      "releaseDate": "2010-07-01T00:00:00Z"
+    },
+    "Bandai Namco Entertainment": {
+      "type": "Developer"
+    },
+    "life simulation game": {
+      "type": "Genre"
+    },
+    "Divinity II": {
+      "type": "Game",
+      "releaseDate": "2009-11-20T00:00:00Z"
+    },
+    "Larian Studios": {
+      "type": "Developer"
+    },
+    "Killing Floor": {
+      "type": "Game",
+      "releaseDate": "2009-05-14T00:00:00Z"
+    },
+    "Tripwire Interactive": {
+      "type": "Developer"
+    },
+    "horde shooter": {
+      "type": "Genre"
+    },
+    "World of Warcraft": {
+      "type": "Game",
+      "releaseDate": "2004-11-23T00:00:00Z"
+    },
+    "Blizzard Entertainment": {
+      "type": "Developer"
+    },
+    "high fantasy": {
+      "type": "Genre"
+    },
+    "Tales of Hearts": {
+      "type": "Game",
+      "releaseDate": "2008-12-18T00:00:00Z"
+    },
+    "Namco Tales Studio": {
+      "type": "Developer"
+    },
+    "X-Men Legends II: Rise of Apocalypse": {
+      "type": "Game",
+      "releaseDate": "2005-09-20T00:00:00Z"
+    },
+    "Raven Software": {
+      "type": "Developer"
+    }
+  },
+  "edges": [
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "Valve Corporation",
+      "type": "developer"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "science fiction video game",
+      "type": "genre"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Half-Life 2: Episode One",
+      "target": "post-apocalyptic video game",
+      "type": "genre"
+    },
+    {
+      "source": "Rappelz",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Rappelz",
+      "target": "fantasy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Amnesia: The Dark Descent",
+      "target": "Frictional Games",
+      "type": "developer"
+    },
+    {
+      "source": "Amnesia: The Dark Descent",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Amnesia: The Dark Descent",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Amnesia: The Dark Descent",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Amnesia: The Dark Descent",
+      "target": "psychological horror",
+      "type": "genre"
+    },
+    {
+      "source": "MotorStorm: Arctic Edge",
+      "target": "Bigbig Studios",
+      "type": "developer"
+    },
+    {
+      "source": "MotorStorm: Arctic Edge",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "MotorStorm: Arctic Edge",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "MotorStorm: Arctic Edge",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "FinnWars",
+      "target": "DICE",
+      "type": "developer"
+    },
+    {
+      "source": "FinnWars",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "FinnWars",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "FinnWars",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization III",
+      "target": "Aspyr",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization III",
+      "target": "Firaxis Games",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization III",
+      "target": "MacSoft Games",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization III",
+      "target": "Classic Mac OS",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization III",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization III",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization III",
+      "target": "strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization III",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization III",
+      "target": "4X",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization III",
+      "target": "simulation video game",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization III",
+      "target": "grand strategy wargame",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "Soren Johnson",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "Firaxis Games",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "Classic Mac OS",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "grand strategy wargame",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization IV",
+      "target": "4X",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization V",
+      "target": "Firaxis Games",
+      "type": "developer"
+    },
+    {
+      "source": "Civilization V",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization V",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization V",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Civilization V",
+      "target": "4X",
+      "type": "genre"
+    },
+    {
+      "source": "Civilization V",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Freedom Force vs the 3rd Reich",
+      "target": "Irrational Games",
+      "type": "developer"
+    },
+    {
+      "source": "Freedom Force vs the 3rd Reich",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Freedom Force vs the 3rd Reich",
+      "target": "tactical role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Freedom Force vs the 3rd Reich",
+      "target": "real-time tactics",
+      "type": "genre"
+    },
+    {
+      "source": "Heroes of Might and Magic V: Tribes of the East",
+      "target": "Nival Interactive",
+      "type": "developer"
+    },
+    {
+      "source": "Heroes of Might and Magic V: Tribes of the East",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Heroes of Might and Magic V: Tribes of the East",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "Slightly Mad Studios",
+      "type": "developer"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "Symbian",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "Windows Mobile",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Shift",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Terry Cavanagh",
+      "type": "developer"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Ouya",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "PlayStation Vita",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Nintendo 3DS",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Pandora",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "Commodore 64",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "VVVVVV",
+      "target": "puzzle-platformer",
+      "type": "genre"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "Ubisoft Montreal",
+      "type": "developer"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "Xbox One",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "historical video game",
+      "type": "genre"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Assassin's Creed II",
+      "target": "stealth game",
+      "type": "genre"
+    },
+    {
+      "source": "DK: King of Swing",
+      "target": "Paon DP",
+      "type": "developer"
+    },
+    {
+      "source": "DK: King of Swing",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "DK: King of Swing",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "DK: King of Swing",
+      "target": "puzzle video game",
+      "type": "genre"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Nintendo Entertainment Analysis & Development",
+      "type": "developer"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "\u4efb\u5929\u5802",
+      "type": "developer"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Nintendo GameCube",
+      "type": "platform"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Nintendo 64",
+      "type": "platform"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Nintendo 3DS",
+      "type": "platform"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "The Legend of Zelda: Ocarina of Time",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Super Mario Bros.",
+      "target": "Nintendo Entertainment Analysis & Development",
+      "type": "developer"
+    },
+    {
+      "source": "Super Mario Bros.",
+      "target": "Nintendo Entertainment System",
+      "type": "platform"
+    },
+    {
+      "source": "Super Mario Bros.",
+      "target": "2D platform game",
+      "type": "genre"
+    },
+    {
+      "source": "Death to Spies",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Death to Spies",
+      "target": "shooter game",
+      "type": "genre"
+    },
+    {
+      "source": "Death to Spies",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Death to Spies",
+      "target": "stealth game",
+      "type": "genre"
+    },
+    {
+      "source": "Stronghold: Crusader Extreme",
+      "target": "Firefly Studios",
+      "type": "developer"
+    },
+    {
+      "source": "Stronghold: Crusader Extreme",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Stronghold: Crusader Extreme",
+      "target": "real-time strategy",
+      "type": "genre"
+    },
+    {
+      "source": "Stronghold: Crusader Extreme",
+      "target": "simulation video game",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "Naughty Dog",
+      "type": "developer"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted 2: Among Thieves",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted: Drake's Fortune",
+      "target": "Naughty Dog",
+      "type": "developer"
+    },
+    {
+      "source": "Uncharted: Drake's Fortune",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Uncharted: Drake's Fortune",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted: Drake's Fortune",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Uncharted: Drake's Fortune",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "Apus Software",
+      "type": "developer"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "fantasy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Spectromancer",
+      "target": "card video game",
+      "type": "genre"
+    },
+    {
+      "source": "24: The Game",
+      "target": "Guerrilla Cambridge",
+      "type": "developer"
+    },
+    {
+      "source": "24: The Game",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "24: The Game",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Quake",
+      "target": "Nightdive Studios",
+      "type": "developer"
+    },
+    {
+      "source": "Quake",
+      "target": "id Software",
+      "type": "developer"
+    },
+    {
+      "source": "Quake",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "PlayStation 5",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Dreamcast",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Commodore Amiga",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Sega Saturn",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Classic Mac OS",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Nintendo 64",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "\u098f\u09ae\u098f\u09b8-\u09a1\u09b8",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Xbox One",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "Xbox Series X and Series S",
+      "type": "platform"
+    },
+    {
+      "source": "Quake",
+      "target": "science fiction video game",
+      "type": "genre"
+    },
+    {
+      "source": "Quake",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "Crystal Dynamics",
+      "type": "developer"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "Xbox",
+      "type": "platform"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Project Snowblind",
+      "target": "cyberpunk video game",
+      "type": "genre"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "EA Vancouver",
+      "type": "developer"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Nintendo GameCube",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Xbox",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Carbon",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Zoo Tycoon 2",
+      "target": "Blue Fang Games",
+      "type": "developer"
+    },
+    {
+      "source": "Zoo Tycoon 2",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Zoo Tycoon 2",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Zoo Tycoon 2",
+      "target": "business simulation game",
+      "type": "genre"
+    },
+    {
+      "source": "Boin",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Boin",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Boin",
+      "target": "visual novel",
+      "type": "genre"
+    },
+    {
+      "source": "Boin",
+      "target": "hentai",
+      "type": "genre"
+    },
+    {
+      "source": "Boin",
+      "target": "eroge",
+      "type": "genre"
+    },
+    {
+      "source": "Boin",
+      "target": "harem",
+      "type": "genre"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "EA Black Box",
+      "type": "developer"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "Nintendo GameCube",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "Xbox",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "personal computer",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Need for Speed: Most Wanted",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "Bethesda Game Studios",
+      "type": "developer"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "Xbox One",
+      "type": "platform"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "action role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "video game with LGBT character",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "role-playing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Fallout 3",
+      "target": "post-apocalyptic video game",
+      "type": "genre"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "Paradox Development Studio",
+      "type": "developer"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "real-time strategy",
+      "type": "genre"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "grand strategy wargame",
+      "type": "genre"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "historical video game",
+      "type": "genre"
+    },
+    {
+      "source": "Hearts of Iron III",
+      "target": "wargame",
+      "type": "genre"
+    },
+    {
+      "source": "League of Legends",
+      "target": "Riot Games",
+      "type": "developer"
+    },
+    {
+      "source": "League of Legends",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "League of Legends",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "League of Legends",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "League of Legends",
+      "target": "TGP Box",
+      "type": "platform"
+    },
+    {
+      "source": "League of Legends",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "League of Legends",
+      "target": "multiplayer online battle arena",
+      "type": "genre"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "Valve Corporation",
+      "type": "developer"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Half-Life 2: Lost Coast",
+      "target": "post-apocalyptic video game",
+      "type": "genre"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "Level-5",
+      "type": "developer"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "mystery video game",
+      "type": "genre"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "science fiction video game",
+      "type": "genre"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "adventure video game",
+      "type": "genre"
+    },
+    {
+      "source": "Professor Layton and the Unwound Future",
+      "target": "puzzle video game",
+      "type": "genre"
+    },
+    {
+      "source": "Fate",
+      "target": "WildTangent",
+      "type": "developer"
+    },
+    {
+      "source": "Fate",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Fate",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Fate",
+      "target": "action role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Fate: Undiscovered Realms",
+      "target": "WildTangent",
+      "type": "developer"
+    },
+    {
+      "source": "Fate: Undiscovered Realms",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Fate: Undiscovered Realms",
+      "target": "roguelike",
+      "type": "genre"
+    },
+    {
+      "source": "Fate: Undiscovered Realms",
+      "target": "role-playing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Fate: Undiscovered Realms",
+      "target": "action role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Zak McKracken: Between Time and Space",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Zak McKracken: Between Time and Space",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Zak McKracken: Between Time and Space",
+      "target": "science fiction video game",
+      "type": "genre"
+    },
+    {
+      "source": "Zak McKracken: Between Time and Space",
+      "target": "adventure video game",
+      "type": "genre"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Nintendo Research & Development 1",
+      "type": "developer"
+    },
+    {
+      "source": "Excitebike",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Sharp X1",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "arcade video game machine",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Nintendo Entertainment System",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "NEC PC-8800 series",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Excitebike",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Tron",
+      "target": "Midway Games",
+      "type": "developer"
+    },
+    {
+      "source": "Tron",
+      "target": "arcade video game machine",
+      "type": "platform"
+    },
+    {
+      "source": "Tron",
+      "target": "Tron-like",
+      "type": "genre"
+    },
+    {
+      "source": "Tron",
+      "target": "action game",
+      "type": "genre"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "Intelligent Systems",
+      "type": "developer"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "Nintendo 64",
+      "type": "platform"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "iQue Player",
+      "type": "platform"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "role-playing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Paper Mario",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "Rockstar Leeds",
+      "type": "developer"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto: Vice City Stories",
+      "target": "video game with LGBT character",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "Rockstar Leeds",
+      "type": "developer"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "PlayStation Vita",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto: Liberty City Stories",
+      "target": "video game with LGBT character",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "Rockstar North",
+      "type": "developer"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "Rockstar Toronto",
+      "type": "developer"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "Xbox One",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto IV",
+      "target": "video game with LGBT character",
+      "type": "genre"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "Rockstar Leeds",
+      "type": "developer"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Grand Theft Auto: Chinatown Wars",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Clannad",
+      "target": "Visual Arts",
+      "type": "developer"
+    },
+    {
+      "source": "Clannad",
+      "target": "Key",
+      "type": "developer"
+    },
+    {
+      "source": "Clannad",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Clannad",
+      "target": "visual novel",
+      "type": "genre"
+    },
+    {
+      "source": "Clannad",
+      "target": "romance adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "Clannad",
+      "target": "harem",
+      "type": "genre"
+    },
+    {
+      "source": "Chromehounds",
+      "target": "FromSoftware",
+      "type": "developer"
+    },
+    {
+      "source": "Chromehounds",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Chromehounds",
+      "target": "action game",
+      "type": "genre"
+    },
+    {
+      "source": "Cloud",
+      "target": "Jenova Chen",
+      "type": "developer"
+    },
+    {
+      "source": "Cloud",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Cloud",
+      "target": "puzzle video game",
+      "type": "genre"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "Nintendo Research & Development 1",
+      "type": "developer"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "Nintendo Entertainment System",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "Nintendo 3DS",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "target": "tactical role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Fire Emblem: The Sacred Stones",
+      "target": "Intelligent Systems",
+      "type": "developer"
+    },
+    {
+      "source": "Fire Emblem: The Sacred Stones",
+      "target": "Nintendo 3DS",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Sacred Stones",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Sacred Stones",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Sacred Stones",
+      "target": "tactical role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Fire Emblem: The Blazing Blade",
+      "target": "Intelligent Systems",
+      "type": "developer"
+    },
+    {
+      "source": "Fire Emblem: The Blazing Blade",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Blazing Blade",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Blazing Blade",
+      "target": "Game Boy Advance",
+      "type": "platform"
+    },
+    {
+      "source": "Fire Emblem: The Blazing Blade",
+      "target": "tactical role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Sonic Colors",
+      "target": "Sonic Team",
+      "type": "developer"
+    },
+    {
+      "source": "Sonic Colors",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic Colors",
+      "target": "Wii U",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic Colors",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "Radical Entertainment",
+      "type": "developer"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "Xbox",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "Nintendo GameCube",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "action game",
+      "type": "genre"
+    },
+    {
+      "source": "The Incredible Hulk: Ultimate Destruction",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "Edge of Reality",
+      "type": "developer"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "action game",
+      "type": "genre"
+    },
+    {
+      "source": "The Incredible Hulk",
+      "target": "action-adventure game",
+      "type": "genre"
+    },
+    {
+      "source": ".kkrieger",
+      "target": ".theprodukkt",
+      "type": "developer"
+    },
+    {
+      "source": ".kkrieger",
+      "target": "Farbrausch",
+      "type": "developer"
+    },
+    {
+      "source": ".kkrieger",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": ".kkrieger",
+      "target": "science fiction video game",
+      "type": "genre"
+    },
+    {
+      "source": ".kkrieger",
+      "target": "action game",
+      "type": "genre"
+    },
+    {
+      "source": ".kkrieger",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "James Bond 007: Everything or Nothing",
+      "target": "Visceral Games",
+      "type": "developer"
+    },
+    {
+      "source": "James Bond 007: Everything or Nothing",
+      "target": "Xbox",
+      "type": "platform"
+    },
+    {
+      "source": "James Bond 007: Everything or Nothing",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "James Bond 007: Everything or Nothing",
+      "target": "Nintendo GameCube",
+      "type": "platform"
+    },
+    {
+      "source": "James Bond 007: Everything or Nothing",
+      "target": "third-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "FreeCol",
+      "target": "Java virtual machine",
+      "type": "platform"
+    },
+    {
+      "source": "FreeCol",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "FreeCol",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "FreeCol",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "FreeCol",
+      "target": "turn-based strategy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "Sumo Digital",
+      "type": "developer"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "Wii",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "\u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+      "type": "platform"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "mascot racer",
+      "type": "genre"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "racing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Sonic & Sega All-Stars Racing",
+      "target": "crossover fiction",
+      "type": "genre"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "4A Games",
+      "type": "developer"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "Xbox One",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "post-apocalyptic video game",
+      "type": "genre"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "survival horror",
+      "type": "genre"
+    },
+    {
+      "source": "Metro 2033",
+      "target": "stealth game",
+      "type": "genre"
+    },
+    {
+      "source": "Metal Drift",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Metal Drift",
+      "target": "vehicular combat game",
+      "type": "genre"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "5pb. Inc.",
+      "type": "developer"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "PlayStation Vita",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "visual novel",
+      "type": "genre"
+    },
+    {
+      "source": "Memories Off: Yubikiri no Kioku",
+      "target": "bish\u014djo game",
+      "type": "genre"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "5pb. Inc.",
+      "type": "developer"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "PlayStation Vita",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "visual novel",
+      "type": "genre"
+    },
+    {
+      "source": "Memories Off 6: T-wave",
+      "target": "bish\u014djo game",
+      "type": "genre"
+    },
+    {
+      "source": "Guitar Hero",
+      "target": "Harmonix Music Systems",
+      "type": "developer"
+    },
+    {
+      "source": "Guitar Hero",
+      "target": "PlayStation 2",
+      "type": "platform"
+    },
+    {
+      "source": "Guitar Hero",
+      "target": "rhythm game",
+      "type": "genre"
+    },
+    {
+      "source": "Guitar Hero",
+      "target": "music video game",
+      "type": "genre"
+    },
+    {
+      "source": "Kal Online",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Kal Online",
+      "target": "massively multiplayer online role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Trine",
+      "target": "Frozenbyte",
+      "type": "developer"
+    },
+    {
+      "source": "Trine",
+      "target": "\ub2cc\ud150\ub3c4 \uc2a4\uc704\uce58",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "PlayStation 3",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "PlayStation Portable",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "PlayStation 4",
+      "type": "platform"
+    },
+    {
+      "source": "Trine",
+      "target": "puzzle video game",
+      "type": "genre"
+    },
+    {
+      "source": "Trine",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "Transformice",
+      "target": "Atelier 801",
+      "type": "developer"
+    },
+    {
+      "source": "Transformice",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Transformice",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Transformice",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Transformice",
+      "target": "platform game",
+      "type": "genre"
+    },
+    {
+      "source": "The Ball",
+      "target": "Teotl Studios",
+      "type": "developer"
+    },
+    {
+      "source": "The Ball",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "The Ball",
+      "target": "Ouya",
+      "type": "platform"
+    },
+    {
+      "source": "The Ball",
+      "target": "puzzle video game",
+      "type": "genre"
+    },
+    {
+      "source": "The Ball",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Digimon Story Lost Evolution",
+      "target": "Bandai Namco Entertainment",
+      "type": "developer"
+    },
+    {
+      "source": "Digimon Story Lost Evolution",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Digimon Story Lost Evolution",
+      "target": "life simulation game",
+      "type": "genre"
+    },
+    {
+      "source": "Digimon Story Lost Evolution",
+      "target": "role-playing video game",
+      "type": "genre"
+    },
+    {
+      "source": "Divinity II",
+      "target": "Larian Studios",
+      "type": "developer"
+    },
+    {
+      "source": "Divinity II",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Divinity II",
+      "target": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd 360",
+      "type": "platform"
+    },
+    {
+      "source": "Divinity II",
+      "target": "action role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "Tripwire Interactive",
+      "type": "developer"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "\u120a\u1291\u12ad\u1235",
+      "type": "platform"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "horde shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "first-person shooter",
+      "type": "genre"
+    },
+    {
+      "source": "Killing Floor",
+      "target": "survival horror",
+      "type": "genre"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "Blizzard Entertainment",
+      "type": "developer"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "\u0645\u0627\u0643 \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "massively multiplayer online role-playing game",
+      "type": "genre"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "high fantasy",
+      "type": "genre"
+    },
+    {
+      "source": "World of Warcraft",
+      "target": "fantasy video game",
+      "type": "genre"
+    },
+    {
+      "source": "Tales of Hearts",
+      "target": "Namco Tales Studio",
+      "type": "developer"
+    },
+    {
+      "source": "Tales of Hearts",
+      "target": "Nintendo DS",
+      "type": "platform"
+    },
+    {
+      "source": "Tales of Hearts",
+      "target": "PlayStation Vita",
+      "type": "platform"
+    },
+    {
+      "source": "Tales of Hearts",
+      "target": "\u0622\u064a \u0623\u0648 \u0625\u0633",
+      "type": "platform"
+    },
+    {
+      "source": "Tales of Hearts",
+      "target": "role-playing video game",
+      "type": "genre"
+    },
+    {
+      "source": "X-Men Legends II: Rise of Apocalypse",
+      "target": "Raven Software",
+      "type": "developer"
+    },
+    {
+      "source": "X-Men Legends II: Rise of Apocalypse",
+      "target": "Windows",
+      "type": "platform"
+    },
+    {
+      "source": "X-Men Legends II: Rise of Apocalypse",
+      "target": "role-playing video game",
+      "type": "genre"
+    }
+  ]
+}
